@@ -31,11 +31,7 @@ This version uses pre-defined parameters to generate a sample volatility surface
 ## Installation
 
 1.  **Clone the repository (or download the `app.py` script):**
-    ```bash
-    # If you have it in a git repo
-    # git clone <repository-url>
-    # cd <repository-name>
-    ```
+
 
 2.  **Create and activate a virtual environment (recommended):**
     ```bash
