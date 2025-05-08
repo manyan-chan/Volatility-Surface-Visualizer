@@ -62,3 +62,4 @@ Once the dependencies are installed, navigate to the directory containing `app.p
 
 ```bash
 streamlit run app.py
+```
