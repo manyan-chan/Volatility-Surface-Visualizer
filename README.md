@@ -1,5 +1,8 @@
 # Volatility Surface Visualizer
 
+<!-- add screenshot -->
+![Volatility Surface](screenshot.png)
+
 This Streamlit application visualizes the implied volatility surface for options, using synthetically generated example data. It provides an interactive 3D plot showing implied volatility as a function of strike price (or moneyness) and time to expiration.
 
 This version uses pre-defined parameters to generate a sample volatility surface, making it easy to run and explore without external data dependencies or API rate limits.
